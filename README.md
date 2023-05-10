@@ -16,4 +16,4 @@
 3. Show this component thrice 
 
 ### The soluction was deployed on Netlify
-You'll find the reprsentation on this 🔗[link](reat-intro-assignment-bootcamp-fsjs.netlify.app) 
+You'll find the reprsentation on this 🔗[link](https://reat-intro-assignment-bootcamp-fsjs.netlify.app)
