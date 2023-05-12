@@ -15,5 +15,5 @@
           ]
 3. Show this component thrice 
 
-### The soluction was deployed on Netlify
+### The solution was deployed on Netlify
 You'll find the reprsentation on this 🔗[link](https://reat-intro-assignment-bootcamp-fsjs.netlify.app)
