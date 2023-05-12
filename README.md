@@ -1,6 +1,6 @@
 # react-intro-assignment-FSJS-Bootcamp
 
-## This is the assignment's solution for my first class/practice on React from the FS JS Bootcamp with Guillermo Rodas
+## This is the assignment's solution for my first class/practice on React as part of the JS FS Bootcamp with Guillermo Rodas
 
 ### Intructions:
 1. Create a new `React app` with `Vite`.
