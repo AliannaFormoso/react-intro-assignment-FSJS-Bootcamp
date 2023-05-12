@@ -1,4 +1,4 @@
-# react-intro-assignment-FSJS-Bootcamp
+# react-intro-assignment-JSFS-Bootcamp
 
 ## This is the assignment's solution for my first class/practice on React as part of the JS FS Bootcamp with Guillermo Rodas
 
